@@ -1,64 +1,91 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 body{
+    margin: 0px;
     font-family: 'Montserrat', sans-serif;
 }
 
 .container{
-    background-color: #0891b2;
-    color: white;
-    border-bottom-left-radius: 1rem;    
-    margin: 0px;
+    background-color:#0891b2 ;
     padding: 1rem 1rem;
-   
+    color: white;
+    border-bottom-left-radius: 1rem;
+    
 }
 
+.right{
+    display: inline;
+    padding: 0.75rem;
+    font-size: large;
+    color: white;
+}
 
-
+.inline{
+    text-align: right;
+    list-style: none;
+    text-decoration: none;
+}
 
 .link{
     text-decoration: none;
     color: white;
-    list-style-type: none;
-    padding: 0rem 1rem;
-}
-
-
-.inline-list{
-    display: inline;
+    
+    
 }
 
 .link-active{
     font-weight: bold;
 }
 
-.right{
-    text-align: right;
-}
-
-.mid{
+.main-head{
     text-align: center;
-    
-  
-}
-
-.head{
-    padding: 0.5rem 0rem;
 }
 
 .diff{
-    background-color: #fecdd3;
-    padding: 1rem 0rem;
+    background-color: rgb(224, 222, 220);
+    padding: 1rem 1rem;
+    text-align: center;
+    
 }
 
+.space{
+    
+    
+    text-decoration: none;
+}
+
+.projects{
+    text-align: center;
+    padding: 1rem 1rem;
+}
 
 .last-container{
     background-color: #0891b2;
-    color: white;
     padding: 1rem 1rem;
     border-top-right-radius: 1rem;
+    text-align: center;
+    color: white;
+    
+    
 }
 
 .center{
+
+    list-style: none;
+
+}
+
+.inl{
+    display: inline;
+    padding: 0.5rem;
     text-align: center;
 }
+
+.page{
+    text-decoration: none;
+    color:white;
+    background-color: #0891b2;
+    padding: 0.5rem 0.5rem;
+    border-radius: 0.5rem;
+}
+
