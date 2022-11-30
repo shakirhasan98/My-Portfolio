@@ -89,3 +89,12 @@ body{
     border-radius: 0.5rem;
 }
 
+.sec-link{
+    text-decoration: none;
+    color: #0891b2;
+    background-color: white;
+    padding: 0.5rem 0.5rem;
+    border: solid 1px;
+    border-radius: 0.5rem;
+    
+}
