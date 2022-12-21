@@ -100,7 +100,9 @@ body{
 }
 
 .hero{
-    width: 50%;
+    display: block;
+    margin: auto;
     border-radius: 0.5rem;
-    margin: 2rem 20rem;
+    padding: 1rem;
+    
 }
