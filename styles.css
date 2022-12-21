@@ -104,5 +104,9 @@ body{
     margin: auto;
     border-radius: 0.5rem;
     padding: 1rem;
-    
+    max-width: 80%;
+    width: 550px;
+
 }
+
+
