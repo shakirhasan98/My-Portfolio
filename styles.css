@@ -98,3 +98,9 @@ body{
     border-radius: 0.5rem;
     
 }
+
+.hero{
+    width: 50%;
+    border-radius: 0.5rem;
+    margin: 2rem 20rem;
+}
